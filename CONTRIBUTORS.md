@@ -13,7 +13,7 @@ Institution Name : National Institute of Technology, Allahabad <br/>
 Place : India <br/>
 Git Id :https://github.com/kunal-jindal <br/>
 
- Name : Mitasha Dongre <br/>
+Name : Mitasha Dongre <br/>
 Institution Name :sdits <br/>
 Place : India <br/>
 Git Id :  https://github.com/Mitasha98 <br/>
@@ -22,4 +22,8 @@ Name : Naman Aggarwal<br/>
 Institution Name : Bharati Vidyapeeth's College of Engineering <br/>
 Place : India<br/>
 Git Id : https://github.com/naman025. <br/>
- 
+
+Name : Lívia Mendes <br/>
+Institution Name : UNIVESP <br/>
+Place : Brazil <br/>
+Git Id : https://github.com/LivSith <br/>
