@@ -39,3 +39,9 @@ Name: ANkur Nagila<br/>
 Institution Name : B.T.K.I.T.<br/>
 Place : INDIA <br/>
 Git Id : https://github.com/ANkurNagila <br/>
+
+Name : Divyanshu Singh <br/>
+Institution Name : Gautam Buddha University <br/>
+Place : India <br/>
+Git Id : https://github.com/divshacker <br/>
+=====
