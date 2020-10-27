@@ -51,3 +51,9 @@ Name: Shahzeb Parkar
 Institution Name : S.I.G.C.E<br/>
 Place : INDIA <br/>
 Git Id : https://github.com/shahzebgit <br/>
+
+Name : Laugh Face<br/>
+Institution Name : Kupang University <br/>
+Place : Kupang<br/>
+Git Id : https://github.com/laughface809. <br/>
+
