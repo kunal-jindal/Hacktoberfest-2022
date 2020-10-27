@@ -28,6 +28,7 @@ Name : Lívia Mendes <br/>
 Institution Name : UNIVESP <br/>
 Place : Brazil <br/>
 Git Id : https://github.com/LivSith <br/>
+
 =======
 Name : Saheb Giri<br/>
 Institution Name : DAV Public School <br/>
@@ -44,9 +45,15 @@ Name : Divyanshu Singh <br/>
 Institution Name : Gautam Buddha University <br/>
 Place : India <br/>
 Git Id : https://github.com/divshacker <br/>
+
 =====
+Name: Shahzeb Parkar
+Institution Name : S.I.G.C.E<br/>
+Place : INDIA <br/>
+Git Id : https://github.com/shahzebgit <br/>
 
 Name : Laugh Face<br/>
 Institution Name : Kupang University <br/>
 Place : Kupang<br/>
 Git Id : https://github.com/laughface809. <br/>
+
