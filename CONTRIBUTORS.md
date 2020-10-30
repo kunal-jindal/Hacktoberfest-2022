@@ -57,3 +57,8 @@ Institution Name : Kupang University <br/>
 Place : Kupang<br/>
 Git Id : https://github.com/laughface809. <br/>
 
+Name : Muzhar Hussain <br/>
+Institution Name : Virtual University <br/>
+Place : Pakistan <br/>
+Git Id : https://github.com/muzhar01 <br/>
+
