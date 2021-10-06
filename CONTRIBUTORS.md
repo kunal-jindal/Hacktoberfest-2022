@@ -77,3 +77,7 @@ Institution Name: Netaji Subhas Uniiversity of Technology <br/>
 Place: India <br/>
 Git Id: https://github.com/vanshikajha <br/>
 
+Name: Prafulla Kumar Roy <br/>
+Institution Name: Chandigarh University <br/>
+Place: India <br/>
+Git Id: https://github.com/prafulla-k-roy <br/>
