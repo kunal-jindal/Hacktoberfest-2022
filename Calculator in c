@@ -1,0 +1,43 @@
+Programiz
+
+Search Programiz
+C Program to Make a Simple Calculator Using switch...case
+C Program to Make a Simple Calculator Using switch...case
+In this example, you will learn to create a simple calculator in C programming using the switch statement.
+
+To understand this example, you should have the knowledge of the following C programming topics:
+
+C switch Statement
+C break and continue
+This program takes an arithmetic operator +, -, *, / and two operands from the user. Then, it performs the calculation on the two operands depending upon the operator entered by the user.
+
+Simple Calculator using switch Statement
+#include <stdio.h>
+int main() {
+    char operator;
+    double first, second;
+    printf("Enter an operator (+, -, *,): ");
+    scanf("%c", &operator);
+    printf("Enter two operands: ");
+    scanf("%lf %lf", &first, &second);
+
+    switch (operator) {
+    case '+':
+        printf("%.1lf + %.1lf = %.1lf", first, second, first + second);
+        break;
+    case '-':
+        printf("%.1lf - %.1lf = %.1lf", first, second, first - second);
+        break;
+    case '*':
+        printf("%.1lf * %.1lf = %.1lf", first, second, first * second);
+        break;
+    case '/':
+        printf("%.1lf / %.1lf = %.1lf", first, second, first / second);
+        break;
+        // operator doesn't match any case constant
+    default:
+        printf("Error! operator is not correct");
+    }
+
+    return 0;
+}
