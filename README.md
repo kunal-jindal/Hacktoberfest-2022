@@ -1,4 +1,4 @@
-# Hacktoberfest-2020
+# Hacktoberfest-2021
 A cool repository for cool Hacktoberfest beginners. <br/>
 STATUTORY WARNING : Don't commit anything to this readme file. Doing so would mark your PR as invalid.<br/>
 If you are an abosulte beginner (by absolute I mean that just listened the name of Git and opened it for the first time to partcipate in Hacktoberfest), then this repo is for you. <br/>
