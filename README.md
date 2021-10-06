@@ -1,4 +1,5 @@
 # Hacktoberfest-2021
+![alt text](https://github.com/[kunal-jindal]/[Hacktoberfest-2021]/blob/[master]/image.jpg?raw=true)
 A cool repository for cool Hacktoberfest beginners. <br/> <br/>
 STATUTORY WARNING : Don't commit anything to this readme file. Doing so would mark your PR as invalid.<br/>
 If you are an abosulte beginner (by absolute I mean that just listened the name of Git and opened it for the first time to partcipate in Hacktoberfest), then this repo is for you. <br/>
