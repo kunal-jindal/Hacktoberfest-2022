@@ -12,7 +12,6 @@ Place : <place> <br/>
 Git Id : <Your git id>. <br/>
 
 Name : Kunal Jindal <br/>
-Institution Name : National Institute of Technology, Allahabad <br/>
 Place : India <br/>
 Git Id :https://github.com/kunal-jindal <br/>
 
