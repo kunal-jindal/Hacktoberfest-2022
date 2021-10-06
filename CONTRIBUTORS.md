@@ -1,8 +1,6 @@
 Hi noobs,<br/>
 Welcome to this beginners repo for Hacktoberfest 2020. All set to enter into the world of open source and earn your free swag? <br/>
-kunal-jindal-patch-1
 If yes, then simply you have to enter your details in the format as mentioned below and there you are with your first contribution. May !!!!
-If yes, then simply you have to enter your details in the format as mentioned below and there you are with your first contribution.<br/>
 
 All the best!!!!
 master
