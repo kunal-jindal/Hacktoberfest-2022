@@ -69,6 +69,11 @@ InstitutionName: Platzi <br />
 Place: Mexico <br />
 Git Id: https://github,com/erne385291 <br />
 
+
+Name : Akshat Maheshwari <br/>
+Institution Name : Shri Vaishnav Vidyapeeth Vishwavidyalaya <br/>
+Place : Indore <br/>
+Git Id : https://github.com/akshatmaheshwari1702 <br/>
   
 2021 Participants can add their contribution here<br/>
 =======
