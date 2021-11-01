@@ -81,3 +81,8 @@ Name: Prafulla Kumar Roy <br/>
 Institution Name: Chandigarh University <br/>
 Place: India <br/>
 Git Id: https://github.com/prafulla-k-roy <br/>
+
+Name: Nikhil Chivukula <br/>
+Institution Name: Newport High School <br/>
+Place: USA <br/>
+Git Id: https://github.com/justkrimzz <br/>
