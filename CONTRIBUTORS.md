@@ -11,6 +11,10 @@ Institution Name : <institution name> <br/>
 Place : <place> <br/>
 Git Id : <Your git id>. <br/>
 
+Name : Devansh Bindlish <br/>
+Place : India <br/>
+Git Id :https://github.com/devansh3059 <br/>
+  
 Name : Kunal Jindal <br/>
 Place : India <br/>
 Git Id :https://github.com/kunal-jindal <br/>
