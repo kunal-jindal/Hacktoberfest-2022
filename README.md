@@ -8,6 +8,5 @@ All you have to do is open the CONTRIBUTORS.md file and complete the following t
   Just add your name, place, institution name, Git id <br/>and boom you are done.<br/>
  <h6> Welcome to the world of Open Source !!!! </h6>
  
- ## If you want to share/ask something or just simply want to say a hello, feel free to reach out to me at [linkedin.com/in/imkjindal](https://www.linkedin.com/in/imkjindal/).
  
   
