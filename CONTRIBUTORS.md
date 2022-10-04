@@ -1,5 +1,5 @@
 Hi geeks,<br/>
-Welcome to this beginners repo for Hacktoberfest 2020. All set to enter into the world of open source and earn your free swag? <br/>
+Welcome to this beginners repo for Hacktoberfest 2022. All set to enter into the world of open source and earn your free swag? <br/>
 If yes, then simply you have to enter your details in the format as mentioned below and there you are with your first contribution. May the code be with you!!!!
 
 All the best!!!! <br/>
