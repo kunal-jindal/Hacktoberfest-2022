@@ -1,4 +1,4 @@
-# Hacktoberfest-2021
+# Hacktoberfest-2022
 ![logo](image.jpg) <br/>
 A cool repository for cool Hacktoberfest beginners. <br/> <br/>
 STATUTORY WARNING : Don't commit anything to this readme file. Doing so would mark your PR as invalid.<br/>
