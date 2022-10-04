@@ -90,3 +90,8 @@ Name: Nikhil Chivukula <br/>
 Institution Name: Newport High School <br/>
 Place: USA <br/>
 Git Id: https://github.com/justkrimzz <br/>
+  
+Name: Walmick Diógenes <br/>
+Institution Name: IFCE <br/>
+Place: BRA <br/>
+Git Id: https://github.com/walmickdiogenes <br/>
