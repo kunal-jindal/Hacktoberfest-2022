@@ -9,7 +9,7 @@ All the best!!!! <br/>
 Name : <Your name> <br/>
 Institution Name : <institution name> <br/>
 Place : <place> <br/>
-Git Id : <Your git id>. <br/>
+Git Id : <Your git id> <br/>
   
 Name : Madhvik Kathiria <br/>
 Place : India <br/>
