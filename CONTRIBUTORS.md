@@ -100,3 +100,8 @@ Name: Walmick Diógenes <br/>
 Institution Name: IFCE <br/>
 Place: BRA <br/>
 Git Id: https://github.com/walmickdiogenes <br/>
+
+Name: Hans Upadhyay <br/>
+Institution Name: Soa University <br/>
+Place: Bhubaneswar, Odisha, India <br/>
+Git Id: https://github.com/hansupadhyay007 <br/>
