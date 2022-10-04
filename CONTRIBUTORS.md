@@ -4,7 +4,7 @@ If yes, then simply you have to enter your details in the format as mentioned be
 
 All the best!!!! <br/>
 
-## 2020 Participants (Don't change this)<br/>
+## 2022 Participants (Don't change this)<br/>
 
 Name : <Your name> <br/>
 Institution Name : <institution name> <br/>
